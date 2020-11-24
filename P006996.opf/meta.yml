@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18982
   title: ཆོས་ཀྱི་ཤན་འབྱེད།
-  volume: ''
+  volume:
+    6b707fd5befa45529932386acbec5a63:
+      image_group_id: I8LS18984
+      title: Volume 1 of chos kyi shan 'byed/ jo nang dpe tshogs/ 40
+      volume_number: 1
+      total_pages: 362
   author: ''
+ebook_metadata:
+  title: ཆོས་ཀྱི་ཤན་འབྱེད།
+  author: ''
+  sku: P006996
+  cover: cover.jpg
+  layers:
+  - pagination
